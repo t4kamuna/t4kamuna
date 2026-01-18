@@ -1,6 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=50&center=true&vCenter=true&width=700&height=90&lines=Welcome+to+t4kamuna;I'm+student+programmer" />
 
 ## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Stats
 <p align="left">
@@ -19,18 +20,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t4kamuna&theme=2077)
 
-
-
-
 ![](https://raw.githubusercontent.com/t4kamuna/t4kamuna/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
 
 
 
