@@ -1,7 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=50&center=true&vCenter=true&width=700&height=90&lines=Welcome+to+t4kamuna;I'm+student+programmer" />
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
