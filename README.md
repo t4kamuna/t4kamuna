@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=50&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+t4kamuna;I'm+student+programmer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=50&center=true&vCenter=true&width=700&height=90&lines=Welcome+to+t4kamuna;I'm+student+programmer" />
 
 ## Skills
 
