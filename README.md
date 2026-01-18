@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=50&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+t4kamuna;I'm+student+programmer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=50&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+t4kamuna;I'm+student+programmer" />
 
-
+[](w600 h100)
 ## Status
 <p align="left">
   <a href="https://github.com/t4kamuna">
