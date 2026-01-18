@@ -1,3 +1,5 @@
+
+
 ## Status
 <p align="left">
   <a href="https://github.com/t4kamuna">
@@ -5,9 +7,18 @@
   </a>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t4kamuna&theme=2077)
+
+
+## Skills
+
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t4kamuna&theme=gruvbox)
+
+
+
+
+
 
 
 
