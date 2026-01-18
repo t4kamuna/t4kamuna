@@ -1,10 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=50&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+t4kamuna;I'm+student+programmer" />
 
-## Socials
-
 ## Skills
 
-## Status
+## Stats
 <p align="left">
   <a href="https://github.com/t4kamuna">
     <img height="20" src="https://komarev.com/ghpvc/?username=t4kamuna&style=plastic" />
@@ -24,7 +22,6 @@
 
 
 
-## Stats
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4kamuna&layout=compact&show_icons=true&theme=radical" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t4kamuna&theme=radical&show_icons=ture" />
