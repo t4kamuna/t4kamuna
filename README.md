@@ -13,16 +13,15 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t4kamuna)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t4kamuna&theme=2077)
 
 
 ## Skills
-<p align="left">
-  <a href="https://github.com/t4kamuna">
-    <img height="20" src="https://komarev.com/ghpvc/?username=t4kamuna&style=plastic" />
-  </a>
-
-</p>
 
 ## Stats
 
