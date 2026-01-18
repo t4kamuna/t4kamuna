@@ -1,8 +1,4 @@
-##Status
-
-
-
-
+## Status
 <p align="left">
   <a href="https://github.com/t4kamuna">
     <img height="20" src="https://komarev.com/ghpvc/?username=t4kamuna" />
@@ -10,7 +6,14 @@
 </p>
 
 
-## Hi there 👋
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t4kamuna&theme=gruvbox)
+
+
+
+
+
+
 
 <!--
 **t4kamuna/t4kamuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
