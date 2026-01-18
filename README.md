@@ -3,7 +3,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=apple,git,github,figma,notion,neovim,vercel" />
   </a>
 </p>
 
