@@ -19,7 +19,7 @@
 ## Skills
 <p align="left">
   <a href="https://github.com/t4kamuna">
-    <img height="20" src="https://komarev.com/ghpvc/?username=t4kamuna/style=plastic" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=t4kamuna&style=plastic" />
   </a>
 
 </p>
