@@ -6,7 +6,7 @@
     <img height="20" src="https://komarev.com/ghpvc/?username=t4kamuna" />
   </a>
   <a href="https://github.com/t4kamuna">
-    <img height="20" src="https://img.shields.io/github/followers/t4kamuna?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/t4kamuna?label=follow&logo=github&style=plastic" />
   </a>
   <a href="https://zenn.dev/t4kamuna">
     <img height="20" src="https://badgen.org/img/zenn/t4kamuna/articles?style=plastic" />
