@@ -1,9 +1,9 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF0040&size=50&center=true&vCenter=true&width=700&height=90&lines=Welcome+to+t4kamuna!;I'm+student+programmer." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF0040&size=50&center=true&vCenter=true&width=700&height=90&lines=Hi+there!;I'm+t4kamuna." />
 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,git,github,figma,neovim,vercel,supabase" />
+    <img src="https://skillicons.dev/icons?i=apple,git,github,figma,neovim,vercel,supabase,cloudflare" />
   </a>
 </p>
 
