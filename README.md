@@ -24,7 +24,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t4kamuna&theme=2077)
 
-![](https://raw.githubusercontent.com/t4kamuna/t4kamuna/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t4kamuna/t4kamuna/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/t4kamuna/t4kamuna/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t4kamuna/t4kamuna/output/contributions-drop-dark.svg" />
