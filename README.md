@@ -26,7 +26,10 @@
 
 ![](https://raw.githubusercontent.com/t4kamuna/t4kamuna/output/github-contribution-grid-snake.svg)
 
-![](https://raw.githubusercontent.com/t4kamuna/t4kamuna/output/contributions-drop.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t4kamuna/t4kamuna/output/contributions-drop-dark.svg" />
+  <img alt="contributions-drop" src="https://raw.githubusercontent.com/t4kamuna/t4kamuna/output/contributions-drop.svg" />
+</picture>
 
 
 
