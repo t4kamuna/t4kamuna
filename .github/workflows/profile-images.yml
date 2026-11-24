@@ -36,9 +36,10 @@ jobs:
 
       # 草を落ち物パズルにした SVG。ヘビと同じ dist/ に出して、下の手順でまとめて output ブランチへ送る
       - name: generate contributions-drop.svg
-        uses: t4kamuna/contributions-drop@v0.1.0
+        uses: t4kamuna/contributions-drop@v0.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
+          style: tspin
           outputs: |
             dist/contributions-drop.svg
             dist/contributions-drop-dark.svg?palette=github-dark
