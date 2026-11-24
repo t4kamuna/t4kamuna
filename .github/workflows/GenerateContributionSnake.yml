@@ -33,8 +33,16 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.SAMPLE_SECRETS }}
-          
-          
+
+      # 草を落ち物パズルにした SVG。ヘビと同じ dist/ に出して、下の手順でまとめて output ブランチへ送る
+      - name: generate contributions-drop.svg
+        uses: t4kamuna/contributions-drop@v0.1.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contributions-drop.svg
+            dist/contributions-drop-dark.svg?palette=github-dark
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
